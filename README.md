@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omid Bahadori</h1><h3 align="center">An energetic web developer from iran.</h3>
 
-# 💫 About Me:
 🌱 I’m currently learning Next, Typescript<br><br>📄 Know about my experiences ...<br><br>👨‍💻 All of my projects are available at ...<br><br>📝 I regularly write articles on ...<br><br>💬 Ask me about Javascript and React<br><br>📫 How to reach me Mail or message in social media<br><br>⚡ Fun fact I think I am very sociality<br><br>
 
 
